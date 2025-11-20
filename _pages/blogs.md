@@ -1,5 +1,5 @@
 ---
-title: 随笔
+title: "随笔"
 layout: archive
 permalink: /blogs/
 taxonomy: categories
