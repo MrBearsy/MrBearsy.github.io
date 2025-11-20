@@ -3,6 +3,7 @@ title: 随笔
 layout: archive
 permalink: /blogs/
 taxonomy: categories
+term: 随笔
 ---
 
 # 我的随笔
