@@ -2,13 +2,13 @@
 main:
   - title: "首页"
     url: /
-   - title: "关于我"
-     url: /about/
-   - title: "技术贴"
-     url: /AItech/
-   - title: "知识库"
-     url: /wiki/
-   - title: "随笔"
-     url: /blogs/
+  - title: "关于我"
+    url: /about/
+  - title: "技术贴"
+    url: /AItech/
+  - title: "知识库"
+    url: /wiki/
+  - title: "随笔"
+    url: /blogs/
   # - title: "Sitemap"
   #   url: /sitemap/
