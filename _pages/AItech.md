@@ -1,7 +1,7 @@
 ---
 title: 技术贴
 layout: archive
-permalink: /AItech/
+permalink: /技术贴/
 taxonomy: categories
 term: 技术贴
 ---
