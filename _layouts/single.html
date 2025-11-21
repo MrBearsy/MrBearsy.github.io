@@ -49,6 +49,13 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+        <!-- 文章分类标签（使用自定义跳转路径） -->
+        {% if page.categories.size > 0 %}
+          <div class="post__meta">
+            <span class="post__meta-label">分类：</span>
+            {% include post/category-list.html post=page %}
+          </div>
+        {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
