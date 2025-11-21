@@ -1,7 +1,7 @@
 ---
 title: "随笔"
 layout: archive
-permalink: /随笔/
+permalink: /categories/blogs/
 taxonomy: categories
 term: 随笔
 ---
