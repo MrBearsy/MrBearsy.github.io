@@ -3,11 +3,11 @@ main:
   - title: "首页"
     url: /
   - title: "关于我"
-    url: /about/
+    url: /关于我/
   - title: "技术贴"
-    url: /AItech/
+    url: /技术贴/
   - title: "知识库"
-    url: /wiki/
+    url: /知识库/
   - title: "随笔"
     url: /随笔/
   # - title: "Sitemap"
