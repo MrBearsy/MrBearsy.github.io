@@ -1,7 +1,7 @@
 ---
 title: "知识库"
 layout: archive
-permalink: /知识库/
+permalink: /categories/wiki/
 taxonomy: categories
 term: 知识库
 ---
