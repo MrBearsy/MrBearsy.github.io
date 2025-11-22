@@ -3,12 +3,12 @@ main:
   - title: "首页"
     url: /
   - title: "关于我"
-    url: /关于我/
+    url: /categories/about/  
   - title: "技术贴"
-    url: /技术贴/
+    url: /categories/AItech/  
   - title: "知识库"
-    url: /知识库/
+    url: /categories/wiki/  
   - title: "随笔"
-    url: /随笔/
+    url: /categories/blogs/  
   # - title: "Sitemap"
   #   url: /sitemap/
