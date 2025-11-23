@@ -1,8 +1,8 @@
 ---
-title: "手搓Transformer"
+title: "Transformer学习"
 date: 2025-11-23 22:30:00
-categories: [AItech]
-tags: [学习笔记]
+categories: [blogs]
+tags: [AI]
 ---
 
 
