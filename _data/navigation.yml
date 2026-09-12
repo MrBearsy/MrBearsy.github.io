@@ -9,6 +9,8 @@ main:
   - title: "知识库"
     url: /categories/wiki/  
   - title: "随笔"
-    url: /categories/blogs/  
+    url: /categories/blogs/
+  - title: "标签"
+    url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/

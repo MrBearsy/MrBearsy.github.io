@@ -2,8 +2,7 @@
 title: "随笔"
 layout: category
 permalink: /categories/blogs/
-taxonomy: categories
-term: blogs
+taxonomy: blogs
 ---
 
 # 我的随笔

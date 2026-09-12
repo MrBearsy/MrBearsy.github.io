@@ -2,8 +2,7 @@
 title: 技术贴
 layout: category
 permalink: /categories/AItech/
-taxonomy: categories
-term: AItech
+taxonomy: AItech
 ---
 
 # 我的技术贴

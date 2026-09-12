@@ -2,8 +2,7 @@
 title: "知识库"
 layout: category
 permalink: /categories/wiki/
-taxonomy: categories
-term: wiki
+taxonomy: wiki
 ---
 
 # 我的知识库
