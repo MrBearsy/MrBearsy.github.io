@@ -1,9 +1,9 @@
 ---
 title: "随笔"
-layout: archive
+layout: category
 permalink: /categories/blogs/
 taxonomy: categories
-term: 随笔
+term: blogs
 ---
 
 # 我的随笔

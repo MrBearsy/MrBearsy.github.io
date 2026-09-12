@@ -1,9 +1,9 @@
 ---
 title: "知识库"
-layout: archive
+layout: category
 permalink: /categories/wiki/
 taxonomy: categories
-term: 知识库
+term: wiki
 ---
 
 # 我的知识库

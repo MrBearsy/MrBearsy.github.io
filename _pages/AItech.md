@@ -1,9 +1,9 @@
 ---
 title: 技术贴
-layout: archive
+layout: category
 permalink: /categories/AItech/
 taxonomy: categories
-term: 技术贴
+term: AItech
 ---
 
 # 我的技术贴

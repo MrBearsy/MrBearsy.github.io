@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "陈薪宇的博客"
+title                    : "Charles的博客"
 title_separator          : "-"
 subtitle                 : 成长记录
-name                     : "陈薪宇"
-description              : "陈薪宇的个人博客，分享AI技术、日常思考与学习笔记"
-url                      : "https://mmistakes.github.io"
+name                     : "Charles"
+description              : "Sharing my thought,my life and my study"
+url                      : "https://mrbearsy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MrBearsy/MrBearsy.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "陈薪宇"
+  name             : "Charles"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "大模型学习中\n 毕业于南京大学 \n 每周更新学习笔记"
-  location         : "上海"
-  email            : chenxinyu_charles@outlook.com
+  bio              : "Keep learning, Keep living "
+  location         : "Shanghai"
+  email            : "chenxinyu_charles@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

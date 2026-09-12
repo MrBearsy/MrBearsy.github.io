@@ -1,7 +1,7 @@
 ---
 title: "Transformer学习"
 date: 2025-11-23 22:30:00
-categories: [blogs]
+categories: [AItech]
 tags: [AI]
 ---
 
@@ -12,7 +12,7 @@ tags: [AI]
 
 ## 总体介绍
 Transformer本身的架构需要熟悉牢记于心，如图所示：
-![Transformer](../assets/image/Transformer/Transformer_full_architecture.png)
+![Transformer](/assets/image/Transformer/Transformer_full_architecture.png)
 
 Transformer由Encoder和Decoder组成，数据处理后，输入的内容变成了固定长度的向量，和分词一一对应建立了索引关系；然后通过embedding，和 位置embedding输入模型，——> 多头注意力 ——> 残差链接+归一化 ——> FFN ——> 残差连接+归一化 ——>输入Decoder的编码器-解码器注意力 作为K和V
 
@@ -210,7 +210,7 @@ postionalEncoding使用绝对位置编码三角函数进行，对每个位置的
 注意力机制中，需要明确q,k,v的含义，个人认为李宏毅老师的课程讲解的非常清楚，把视频链接和原理图放在这里，包括掩码是如何做的，主要是要自己根据李宏毅老师的自注意力机制推导一遍即可。
 https://www.bilibili.com/video/BV1wB4y1o7is/?spm_id_from=333.337.search-card.all.click&vd_source=80ed7c5335800e5c515edf5dc47ca8a4
 
-![attention](../assets/image/Transformer/attention.png)
+![attention](/assets/image/Transformer/attention.png)
 
 所谓多头，即是把维度d拆分，每一个注意力只关注部分维度，所以有n_head*d_k =d_model
 
